@@ -5,13 +5,18 @@ Bienvenue dans le projet de portfolio de la Formation Digital Maroc School ! Ce 
 ## Contenu
 
 1. [Introduction](#introduction)
-2. [Fonctionnalités](#fonctionnalités)
-3. [Technologies Utilisées](#technologies-utilisees)
-4. [Instructions d'utilisation](#instructions-dutilisation)
+2. [Aperçu](#apercu)
+3. [Fonctionnalités](#fonctionnalités)
+4. [Technologies Utilisées](#technologies-utilisees)
+5. [Instructions d'utilisation](#instructions-dutilisation)
 
 ## Introduction
 
 Ce projet de portfolio a été conçu pour permettre aux étudiants de la Formation Digital Maroc School de créer et de présenter leur propre portfolio personnel en mettant en valeur leurs compétences, projets et expériences.
+
+## Aperçu
+
+![Capture d'écran de projet](./img/portfolio.png)
 
 ## Fonctionnalités
 

@@ -30,6 +30,7 @@ Ce projet de portfolio a été conçu pour permettre aux étudiants de la Format
 
 - **HTML**
 - **CSS**
+- **Media queries**
 
 ## Instructions d'utilisation
 

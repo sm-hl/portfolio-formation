@@ -21,7 +21,7 @@ Ce projet de portfolio a été conçu pour permettre aux étudiants de la Format
 ## Fonctionnalités
 
 - **Section Accueil :** Présentation des informations personnelles et reseaux sociaux.
-- **Section A propos :** Présentation personnelle.
+- **Section A propos :** Présentation en bref a propos de vous.
 - **Section Services :** Informations sur vos compétences acquis durant la formation académique.
 - **Section Projets :** Affichage des projets réalisés avec des descriptions détaillées.
 - **Contact :** Formulaire de contact pour permettre aux visiteurs de vous contacter.

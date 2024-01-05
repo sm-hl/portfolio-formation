@@ -5,7 +5,7 @@ Bienvenue dans le projet de portfolio de la Formation Digital Maroc School ! Ce 
 ## Contenu
 
 1. [Introduction](#introduction)
-2. [Aperçu](#apercu)
+2. [Aperçu](#aperçu)
 3. [Fonctionnalités](#fonctionnalités)
 4. [Technologies Utilisées](#technologies-utilisees)
 5. [Instructions d'utilisation](#instructions-dutilisation)

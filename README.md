@@ -6,8 +6,8 @@ Bienvenue dans le projet de portfolio de la Formation Digital Maroc School ! Ce 
 
 1. [Introduction](#introduction)
 2. [Fonctionnalités](#fonctionnalités)
-3. [Instructions d'utilisation](#instructions-dutilisation)
-4. [Technologies Utilisées](#technologies-utilisees)
+3. [Technologies Utilisées](#technologies-utilisees)
+4. [Instructions d'utilisation](#instructions-dutilisation)
 
 ## Introduction
 
@@ -21,13 +21,15 @@ Ce projet de portfolio a été conçu pour permettre aux étudiants de la Format
 - **Section Projets :** Affichage des projets réalisés avec des descriptions détaillées.
 - **Contact :** Formulaire de contact pour permettre aux visiteurs de vous contacter.
 
+## Technologies Utilisées
+
+- **HTML**
+- **CSS**
+
 ## Instructions d'utilisation
 
 **Installation :** Clonez le repository sur votre machine locale.
    ```bash
    git clone https://github.com/sm-hl/portfolio-formation.git
 
-## Technologies Utilisées
 
-- **HTML**
-- **CSS**

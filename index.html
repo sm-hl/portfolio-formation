@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" href="./img/favicon.ico" type="image/x-icon">
+    <!-- Css -->
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- fontawsome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <title>Portofolio - Halhoul Salma</title>
+</head>
+<body>
+    <!-- header -->
+    <header>
+        <h3 class="logo"> Port<span>Folio</span></h3>
+        <ul class="nav__list">
+            <li><a class="nav__link" href="#home">home</a></li>
+            <li><a class="nav__link" href="#about">about</a></li>
+            <li><a class="nav__link" href="#services">services</a></li>
+            <li><a class="nav__link" href="#projects">projects</a></li>
+            <li><a class="nav__link" href="#contact">contact</a></li>
+        </ul>
+        <div class="menu">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+    </header>
+    <!-- home -->
+    <section class="home" id="home">
+        <div class="content">
+            <h4 class="title-1">Hello, my name is</h4>
+            <h1 class="title-2">Halhoul <span>Salma</span></h1>
+            <h3 class="title-3">I'm a <span>Full-Stack</span> developer</h3>
+            <a class="btn" href="./doc/cv.pdf" target="_blank">Download CV</a>
+            <div class="social">
+                <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                <a href="#"><i class="fa-brands fa-github"></i></a>
+                <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+        </div>
+        <div class="image">
+            <img src="./img/home-img.png" alt="">
+        </div>
+    </section>
+    <!-- about -->
+    <section class="about" id="about">
+        <div class="image">
+            <img src="./img/about-img.png" alt="">
+        </div>
+        <div class="text">
+            <h1>About <span>Me</span></h1>
+            <h5><span>Full-Stack</span> Developer</h5>
+            <p>
+                I am a front end and back end develope.
+                With knowledge in web developement,
+                I offer the best projects resulting
+                in quality work.
+            </p>
+        </div>
+    </section>
+
+    <!-- services -->
+    <section class="services" id="services">
+        <h1 class="text-center"><span>My</span> Services</h1>
+        <div class="box">
+            <div class="card">
+                <i class="fa-solid fa-mobile-screen-button"></i>
+                <h5>Mobile dev</h5> 
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima est ipsam at ratione quas consequuntur perspiciatis eos molestias, animi nisi.</p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-laptop-code"></i>
+                <h5>Web dev</h5> 
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima est ipsam at ratione quas consequuntur perspiciatis eos molestias, animi nisi.</p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-screwdriver-wrench"></i>
+                <h5>Maintenance</h5> 
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima est ipsam at ratione quas consequuntur perspiciatis eos molestias, animi nisi.</p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-server"></i>
+                <h5>Hosting</h5> 
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima est ipsam at ratione quas consequuntur perspiciatis eos molestias, animi nisi.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- projects -->
+    <section class="projects" id="projects">
+        <h1 class="text-center"><span>My</span> Projects</h1>
+        <div class="box">
+            <div class="card">
+                <img src="./img/proj-1.png" alt="">
+                <div class="card-text">
+                    <h5>Expanded cards</h5>
+                    <a href="https://github.com/sm-hl/expanded-cards.git"><i class="fa-brands fa-github"></i></a>
+                </div> 
+                <p>using Html & Css</p>
+            </div>
+            <div class="card">
+                <img src="./img/proj-2.png" alt="">
+                <div class="card-text">
+                    <h5>Google search</h5> 
+                    <a href="https://github.com/sm-hl/google-connecte.git"><i class="fa-brands fa-github"></i></a>
+                </div>
+                <p>using Html & Css</p>
+            </div>
+            <div class="card">
+                <img src="./img/proj-3.png" alt="">
+                <div class="card-text">
+                    <h5>Google image</h5> 
+                    <a href="#"><i class="fa-brands fa-github"></i></a>
+                </div>
+                <p>using Html & Css</p>
+            </div>
+            <div class="card">
+                <img src="./img/proj-4.png" alt="">
+                <div class="card-text">
+                    <h5>Landing page</h5> 
+                    <a href="#"><i class="fa-brands fa-github"></i></a>
+                </div>
+                <p>using Html & Css</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- contact -->
+    <section class="contact" id="contact">
+        <h1>Contact <span>Me</span></h1>
+        <div class="contact-form">
+            <form method="" action="">
+                <input type="text" name="name" id="" placeholder="Your name" required>
+                <input type="email" name="email" id="" placeholder="Email Address">
+                <textarea name="message" id="" placeholder="Write Message Here..." cols="30" rows="10" required></textarea>
+                <input type="submit" value="Send" class="send-btn">
+            </form>
+        </div>
+    </section>
+
+    <!-- footer -->
+    <footer>
+        <p>CopyRight by <span>Salma Halhoul</span>  @ 2024</p>
+    </footer>
+</body>
+</html>
